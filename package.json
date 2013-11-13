@@ -1,0 +1,18 @@
+{
+  "name": "node-queue-scrap",
+  "version": "0.0.0",
+  "description": "Queue jobs to scrap cloth magazine sites",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:khayuenkam/node-queue-scrap.git"
+  },
+  "author": "khayuen <khayuen@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/khayuenkam/node-queue-scrap/issues"
+  },
+  "homepage": "https://github.com/khayuenkam/node-queue-scrap",
+  "dependencies": {
+    "kue": "~0.6.2"
+  }
+}
