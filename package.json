@@ -13,6 +13,9 @@
   },
   "homepage": "https://github.com/khayuenkam/node-queue-scrap",
   "dependencies": {
-    "kue": "~0.6.2"
+    "cron": "~1.0.1",
+    "cheerio": "~0.12.4",
+    "time": "~0.10.0",
+    "request": "~2.27.0"
   }
 }
