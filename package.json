@@ -1,7 +1,7 @@
 {
-  "name": "node-queue-scrap",
-  "version": "0.0.0",
-  "description": "Queue jobs to scrap cloth magazine sites",
+  "name": "node-cron-scrap",
+  "version": "0.0.1",
+  "description": "Cron jobs to scrap cloth magazine sites",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -17,5 +17,9 @@
     "cheerio": "~0.12.4",
     "time": "~0.10.0",
     "request": "~2.27.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-jshint": "~0.7.2"
   }
 }
