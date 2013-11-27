@@ -20,6 +20,11 @@
   },
   "devDependencies": {
     "grunt": "~0.4.1",
-    "grunt-contrib-jshint": "~0.7.2"
+    "grunt-contrib-jshint": "~0.7.2",
+    "grunt-mocha-test": "~0.7.0",
+    "jshint": "~2.3.0",
+    "chai": "~1.8.1",
+    "mocha": "~1.14.0",
+    "supertest": "~0.8.2"
   }
 }

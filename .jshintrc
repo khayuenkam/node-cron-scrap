@@ -1,0 +1,9 @@
+{
+  "node": true,
+  "strict": true,
+  "asi": true,
+  "curly": true,
+  "camelcase": true,
+  "eqeqeq": true,
+  "indent": 2
+}
