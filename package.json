@@ -17,11 +17,8 @@
     "cheerio": "~0.12.4",
     "time": "~0.10.0",
     "request": "~2.27.0",
-    "when": "~2.7.0",
     "bluebird": "~0.11.5-0",
-    "elasticsearchclient": "~0.5.3",
-    "mocha": "~1.14.0",
-    "grunt-mocha-test": "~0.7.0"
+    "elasticsearchclient": "~0.5.3"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
