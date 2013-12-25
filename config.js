@@ -4,11 +4,13 @@ exports.hypebeast = {
 };
 
 exports.streething = {
-  url: 'http://streething.com/'
+  url: 'http://streething.com/',
+  name: 'streething'
 }; 
 
 exports.highsnobiety = {
-  url: 'http://www.highsnobiety.com/'
+  url: 'http://highsnobiety.com/',
+  name: 'highsnobiety'
 }
 
 exports.elasticsearch = {
